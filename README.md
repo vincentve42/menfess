@@ -1,3 +1,3 @@
 # menfes
 
-bingung menfess anda banyak yang spam solusinya pake teknologi menfes dari kami
+Simple Menfess system created using PHP, SQL, HTML, and CSS
